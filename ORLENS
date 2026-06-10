@@ -1,0 +1,13 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kont5 Predictor</title>
+</head>
+<body>
+    <h1>Kont5 Predictor</h1>
+    <p>Bienvenue sou aplikasyon prediksyon an.</p>
+
+    <button>Kòmanse</button>
+</body>
+</html>
